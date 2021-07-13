@@ -2,9 +2,9 @@
 
 Dépôt du cours [swirl](https://swirlstats.com/) de l'ENSTBB
 
-Ce cours n'a pas pour objectif d'apprendre la statistiques, il se focalise sur l'apprentissage de l'utilisation de R/RStudio, de son fonctionnement et de ses mécanismes programmatique.
+Ce cours n'a pas pour objectif d'apprendre la statistiques, il se focalise sur l'apprentissage de l'utilisation de R/RStudio, de son fonctionnement et de ses mécanismes programmatiques.
 
-L'objectif est de comprendre comment R fonctionne pour pouvoir l'utiliser correctement/efficacement/intelligement pour faire de la statistiques.
+L'objectif est de comprendre comment R fonctionne pour pouvoir l'utiliser correctement/efficacement/intelligemment pour faire de la statistique.
 
 Cours traduit et completé du cours [R_programming_E](https://github.com/swirldev/R_Programming_E) lui-même issu du MOOC Coursera **R-programming** de l'équipe biostatistics du *John Hopkins School of Public Health*.
 
